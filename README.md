@@ -1,5 +1,7 @@
 # pokemonproject
 For this project, I would like to make a video game which is about Pokemons. First, there should have a base which the pokeballs will come out. Then, there will have some random grass pokemons to show up in room one. The goal is the player should catch those pokemons by using the pokeballs. If the player catch one pokemon successfully, then the player can earn 5 credits. If the player earns 20 credits in room one, then he or she can go to room two. Player in room two can catch fire pokemons. Again, if the player earns 30 credits in room two, then he or she can go to room three. 
+
+
 Room 1 : grass pokemons ( 5 points each )
 Room 2 : fire pokemons ( 5 points each )
 Room 3: all types of pokemons ( if you catch the ghost pokemon then you will lose 5 points)
