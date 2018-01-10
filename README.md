@@ -3,8 +3,11 @@ For this project, I would like to make a video game which is about Pokemons. Fir
 
 
 Room 1 : grass pokemons ( 5 points each )
+
 Room 2 : fire pokemons ( 5 points each )
+
 Room 3: all types of pokemons ( if you catch the ghost pokemon then you will lose 5 points)
+
 In order to achieve this project, I will use the chained condition and the nested condition. 
 It will ask your name first “what is your name”
 At the beginning, you will have 10 pokeballs. 
