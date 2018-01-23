@@ -13,20 +13,17 @@ Room 3: all types of pokemons ( if you catch the ghost pokemon then you will los
 After the trainer earn 20 points in room 1, then they can go to the second one. In room 2, they also need to earn 20 points then they can go the third room. 
 
 # testing plan
+There will have some random pokemons pops out and ask whether you want to catch it or not. 
+for example: Do you want to catch Bulbasaur?
+if you answer "Yes" then you will receive five credits.
+if you anser "no" then it will answer "Ok. Bulbasaur escapes..."
+Also, after the trainer catch two pokeons, it will ask " Do you want to know your credit now?"
+if you answer yes, then it will tell you your current credits. 
 
 # revision, reflection
+There is a main step that I have not finished yet which is the transfer from room 1 to the second room. Also, the plan of the accumulation is different than my original plan. 
 
 # next step 
+I am almost finish room 1 for the game. The next step for the game is room 2 and room 3. 
 
 
-
-Room 1 : grass pokemons ( 5 points each )
-
-Room 2 : fire pokemons ( 5 points each )
-
-Room 3: all types of pokemons ( if you catch the ghost pokemon then you will lose 5 points)
-
-In order to achieve this project, I will use the chained condition and the nested condition. 
-It will ask your name first “what is your name”
-At the beginning, you will have 10 pokeballs. 
-You will walk in room 1 first and then the pokemons will show up. The programme will ask you whether you want to catch this pokemon or not.
